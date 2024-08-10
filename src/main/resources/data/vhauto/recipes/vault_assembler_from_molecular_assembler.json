@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2:molecular_assembler"
+    }
+  ],
+  "result": {
+    "item": "vhauto:vault_assembler",
+    "count": 1
+  }
+}
